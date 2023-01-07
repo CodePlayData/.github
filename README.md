@@ -1,2 +1,3 @@
-# .github
-teste
+# CodePlayData
+
+## Sobre o Projeto

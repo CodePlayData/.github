@@ -23,8 +23,6 @@ Sempre que possível optaremos por soluções open-source e esperamos contribui�
 
 ### Redes Sociais
 
-<br>
-
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/CodePlayData.svg?style=social&label=Follow%20%40CodePlayData)](https://twitter.com/CodePlayData)
 
 <br>

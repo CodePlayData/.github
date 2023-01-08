@@ -1,8 +1,6 @@
-# CodePlayData
-
 <div align="center"> 
 
-**Bem vindo ao projeto CodePlayData**
+# Bem vindo ao projeto CodePlayData
 
 ![CodePlayData-logo](./assets/CodePlayData-logo-darkmode.png)
 

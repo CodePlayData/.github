@@ -29,8 +29,6 @@ Sempre que possível optaremos por soluções open-source e esperamos contribui�
 
 ## Integrantes
 
-### Autor(es/as): 
-
 <br>
 <img src="https://avatars.githubusercontent.com/u/52466957?v=4" alt="drawing" width="75" style="border-radius: 50%"
 />

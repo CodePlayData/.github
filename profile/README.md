@@ -27,5 +27,16 @@ Sempre que possível optaremos por soluções open-source e esperamos contribui�
 
 <br>
 
+## Integrantes
+
+### Autor(es/as): 
+
+<br>
+<img src="https://avatars.githubusercontent.com/u/52466957?v=4" alt="drawing" width="75" style="border-radius: 50%"
+/>
+
+[Pedro Paulo dos Santos (dr2p/dr2pedro)](https://github.com/dr2pedro) - Idealizador do projeto [CodePlayData](https://github.com/CodePlayData) que busca construir ferramentas para melhor gerenciar dados no ciclo de desenvolvimento das aplicações e facilitar a rotina do dev. Meste em Ciências pela Fundação Oswaldo Cruz - Epidemiologia na Saúde Pública. Cientista e Analista de dados para fins comerciais e acadêmicos, com conhecimentos avançados em R e intermediário em Python (e atualmente um sonhador do JS/TS como linguagens válidas para dados). Desenvolvedor Full-Stack MEVN e conhecedor de Deno, Tailwind e mais alguns outros setups atuais. Preferência de backend por Typescript.
+
+
 
 

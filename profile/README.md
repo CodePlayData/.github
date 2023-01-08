@@ -20,7 +20,6 @@ Sempre que possível optaremos por soluções open-source e esperamos contribui�
 
 ---
 
-<br>
 
 ### Redes Sociais
 

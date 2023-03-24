@@ -4,7 +4,7 @@
 
 ![CodePlayData-logo](./assets/CodePlayData-logo-darkmode.png)
 
-_Data e UX sem atrito._
+_Data e DX sem atrito._
 
 <br>
 

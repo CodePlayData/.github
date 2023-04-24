@@ -46,15 +46,19 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 <br>
 <img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="75" style="border-radius: 50%"
 
-[Tools for easy spatial analysis - Tesa](https://github.com/CodePlayData/tesa) - 
+<img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="75" style="border-radius: 50%"/>
+
+<img src="https://github.com/CodePlayData/authenticator/blob/main/assets/authenticator-dark-logo.png" alt="drawing" width="75" style="border-radius: 50%"/>
+
+<img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_black.png" alt="drawing" width="75" style="border-radius: 50%"/>
 
 <br>
 
 ## Integrantes
 
 <br>
-<img src="https://avatars.githubusercontent.com/u/52466957?v=4" alt="drawing" width="75" style="border-radius: 50%"
-/>
+<img src="https://avatars.githubusercontent.com/u/52466957?v=4" alt="drawing" width="75" style="border-radius: 50%"/>
+
 
 [Pedro Paulo dos Santos (dr2p/dr2pedro)](https://github.com/dr2pedro) - Idealizador do projeto [CodePlayData](https://github.com/CodePlayData) que busca construir ferramentas para melhor gerenciar dados no ciclo de desenvolvimento das aplicações e facilitar a rotina do desenvolvedor. Meste em Ciências pela Fundação Oswaldo Cruz - Epidemiologia na Saúde Pública. Cientista e Analista de dados para fins comerciais e acadêmicos, com conhecimentos avançados em R e Javascript/Typescript, intermediário em Python e Dart. Desenvolvedor Full-Stack MEVN (Mongo, Express, Vue e Node), Deno, Flutter, Tailwind e mais alguns outros setups atuais.
 

@@ -1,6 +1,8 @@
 <div align="center"> 
 
-# Bem vindo ao projeto CodePlayData
+# CodePlayData
+
+## Bem vindo
 
 ![CodePlayData-logo](./assets/CodePlayData-logo-darkmode.png)
 
@@ -10,18 +12,41 @@ _Data e DX sem atrito._
 
 </div>
 
-A CodePlayData é um projeto criado com a missão de simplificar os processos de gerência, tratamento e consumo de dados em aplicações e softwares de alguns setores da sociedade. Acreditamos ser possível desenvolver produtos e serviços que reduzam a complexidade da manipulação de dados, da acessibilidade de dados, das melhores práticas de desenvolvimento de software e da incorporação de novas tecnologias nos ciclos de desenvolvimento, _i.e._ tornando acessível a análise de dados espaciais como feito no repositório [tesa](https://github.com/CodePlayData/tesa); implementando boas prática de arquitetura de software no processo de autenticação do usuário como no repositório [authenticator](https://github.com/CodePlayData/authenticator).
+## Missão
 
-Sempre que possível optaremos por soluções open-source e esperamos contribuições da comunidade.
+A CodePlayData é um projeto criado com a missão de simplificar os processos de gerência, tratamento e consumo de dados em aplicações e softwares de alguns setores específicos da sociedade, como o setor de saúde.
+Acreditamos que a revolução tecnológica que estamos vivendo com o advento das IAs irá gerar uma abordagem centrada à dados como _commodities_. E os modelos atuais oneram em excesso a produção, armazenamento, manipulação e análise dos dados gerados por diversos modelos de trabalho, por exemplo:
+
+1. Um profissional paga para utilizar um software de seu modelo de trabalho, ou por licenças ou por _SaaS_.
+2. Paga para persistir a médio/longo prazo esse dado, diretamente ou indiretamente com Hardwares ou _clouds_.
+3. Paga para transmissão dos dados em rede.
+4. Paga para obter decisões negócios dos dados produzidos por si próprio, por serviços de profissionais especialistas ou _softwares_ de ETL.
+5. Paga para disponibilizar analises, documentos, acessos e afins, derivados dos dados prouzidos.
+
+**Faz parte da nossa missão reduzir esse custo por etapas ao máximo e se possível a 0, de modo que acabe com a redundância de cobrança.**
+
+<br>
+ 
+## Visão
+
+"Data e UX sem atrito ;)"
+
+<br>
+
+## Valores
+
+Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas relações. **Não desenvolvemos produtos que não usamos antes.**
 
 <br>
 
 ---
 
 
-### Redes Sociais
+## Produtos
+<br>
+<img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="75" style="border-radius: 50%"
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/CodePlayData.svg?style=social&label=Follow%20%40CodePlayData)](https://twitter.com/CodePlayData)
+[Tools for easy spatial analysis - Tesa](https://github.com/CodePlayData/tesa) - 
 
 <br>
 

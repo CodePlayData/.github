@@ -44,14 +44,15 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 
 ## Produtos
 <br>
+<div>
 <img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="75" style="border-radius: 50%"
 
 <img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="75" style="border-radius: 50%"/>
 
 <img src="https://github.com/CodePlayData/authenticator/blob/main/assets/authenticator-dark-logo.png" alt="drawing" width="75" style="border-radius: 50%"/>
 
-<img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_black.png" alt="drawing" width="75" style="border-radius: 50%"/>
-
+<img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_white.png" alt="drawing" width="75" style="border-radius: 50%"/>
+</div>
 <br>
 
 ## Integrantes

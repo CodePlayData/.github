@@ -49,7 +49,9 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 
 <div width="65">
 <img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="65" style="border-radius: 50%" />
+<container>
 Tesa
+</container>
 </div>
 
 <div width="65">

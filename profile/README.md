@@ -53,7 +53,8 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 
 <br>
 
-Esse projeto busca reduzir a complexidade de processos nos três pilares das análises espaciais: Geocodificação e Busca (back-end); Geolocalização e Mapas (front-end); Geoprocessamento e Modelos (data-science). A princípio focado em desenvolvedores que esses dados para o Brasil (devs brasileiros ou não) e posteriormente com uma estrutura que possa fornecer o mesmo tipo de serviço a outros países.
+Esse projeto busca reduzir a complexidade de processos nos três pilares das análises espaciais: Geocodificação e Busca (back-end); Geolocalização e Mapas (front-end); Geoprocessamento e Modelos (data-science). Destinado a: desenvolvedores que  precisam criar aplicações que lidam com dados espaciais; profissionais que buscam análise de planilhas de clientes (ou pacientes) de forma visual em mapas interativos; e empresas que aplicar marketing geográfico. Todos esses profissionais podendo ser brasileiros ou não. O primeiro país de implementação é o Brasil com posterior expansão para outros países.
+
 </div>
 
 <div width="65">

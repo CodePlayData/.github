@@ -45,15 +45,11 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 ## Produtos
 <br>
 
-<container align="center">
 
-<div width="65">
-<div>
+<div width="65" align="center">
 <img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="65" style="border-radius: 50%" />
 
-## Tools for easy spatial analysis (Tesa) 
-
-</div>
+### Tools for easy spatial analysis (Tesa) 
 
 <br>
 

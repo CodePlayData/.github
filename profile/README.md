@@ -47,23 +47,23 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 
 <container align="center">
 
-<div width="50">
-<img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="50" style="border-radius: 50%" />
+<div width="65">
+<img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="65" style="border-radius: 50%" />
 Tesa
 </div>
 
-<div width="50">
-<img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="50" style="border-radius: 50%"/>
+<div width="65">
+<img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="65" style="border-radius: 50%"/>
 Adapters
 </div>
 
-<div width="50">
-<img src="https://github.com/CodePlayData/authenticator/blob/main/assets/authenticator-dark-logo.png" alt="drawing" width="50" style="border-radius: 50%"/>
+<div width="65">
+<img src="https://github.com/CodePlayData/authenticator/blob/main/assets/authenticator-dark-logo.png" alt="drawing" width="65" style="border-radius: 50%"/>
 Authenticator
 </div>
 
-<div width="50">
-<img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_white.png" alt="drawing" width="50" style="border-radius: 50%"/>
+<div width="65">
+<img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_white.png" alt="drawing" width="65" style="border-radius: 50%"/>
 Fhir HL7
 </div>
 

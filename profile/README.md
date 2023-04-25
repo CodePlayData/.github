@@ -44,15 +44,16 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 
 ## Produtos
 <br>
-<div align="center" style="flex: 1 1 0%; flex-direction: column;">
 
-<div style="flex: 1 1 0%; flex-direction: row;" width="75">
-<img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="75" style="border-radius: 50%" />
+<div align="center">
+
+<div style="flex: 1 1 0%; flex-direction: row;" width="25">
+<img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="25" style="border-radius: 50%" />
 Tesa
 </div>
 
-<div style="flex: 1 1 0%; flex-direction: column;" width="75">
-<img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="75" style="border-radius: 50%"/>
+<div style="flex: 1 1 0%; flex-direction: column;" width="25">
+<img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="25" style="border-radius: 50%"/>
 Adapters
 </div>
 
@@ -67,6 +68,7 @@ Fhir HL7
 </div>
 
 </div>
+
 <br>
 
 ## Integrantes

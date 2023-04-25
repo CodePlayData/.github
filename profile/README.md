@@ -49,9 +49,7 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 
 <div width="65">
 <img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="65" style="border-radius: 50%" />
-<container>
-Tesa
-</container>
+Tools for easy spatial analysis (Tesa)  - Esse projeto busca reduzir a complexidade de processos nos três pilares das análises espaciais: Geocodificação e Busca (back-end); Geolocalização e Mapas (front-end); Geoprocessamento e Modelos (data-science). A princípio focado em desenvolvedores que esses dados para o Brasil (devs brasileiros ou não) e posteriormente com uma estrutura que possa fornecer o mesmo tipo de serviço a outros países.
 </div>
 
 <div width="65">

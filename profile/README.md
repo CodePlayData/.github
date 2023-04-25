@@ -44,7 +44,7 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 
 ## Produtos
 <br>
-<div align="center">
+<div align="center" style="flex: 1 1 0%; flex-direction: row;">
 
 <container style="flex: 1 1 0%; flex-direction: column;">
 <img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="75" style="border-radius: 50%" />

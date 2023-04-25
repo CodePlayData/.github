@@ -2,7 +2,7 @@
 
 # CodePlayData
 
-## Bem vindo
+### Bem vind(o/a/e)
 
 ![CodePlayData-logo](./assets/CodePlayData-logo-darkmode.png)
 
@@ -29,7 +29,9 @@ Acreditamos que a revolução tecnológica que estamos vivendo com o advento das
  
 ## Visão
 
-"Data e UX sem atrito ;)"
+Esperamos poder evoluir ao passo que os dados assumem um papel central na sociedade. Gostaríamos que os nossos usuários pudessem utilizá-los como ferramentas e forma facilitada e intuitiva, em um mundo em que o desenvolvimento de IAs e Machine Learning é inevitável. Temos como lema atual:
+
+**"Data e UX sem atrito ;)"**
 
 <br>
 
@@ -47,7 +49,7 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 
 
 <div width="65" align="center">
-<img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="65" style="border-radius: 50%" />
+<img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="85" style="border-radius: 50%" />
 
 ### Tools for easy spatial analysis (Tesa) 
 
@@ -57,9 +59,17 @@ Esse projeto busca reduzir a complexidade de processos nos três pilares das an�
 
 </div>
 
-<div width="65">
-<img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="65" style="border-radius: 50%"/>
-Adapters
+<br>
+
+<div width="65" align="center">
+<img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="85" style="border-radius: 50%"/>
+
+### Adapters
+
+<br>
+
+Informações/dados fluem das aplicações/softwares principais dos modelos de trabalhos dos usuários para àqueles em que não são parte da sua regra de negócio. De modo a simplificar o desenvolvimento desses softwares e manter a simplicidade, esse produto é uma biblioteca (e não mais dos que isso) pública para que os desenvolvedores se preocupem apenas com a regra de negócio. Todo o código que é necessário para essa tarefa virá de "adaptadores" (bem ao conceito de arquitetura hexagonal) e a única tarefa para uso dessa bibliotexa será a confecção da melhor "porta" para o seu caso de uso. A previsibilidade do dado é o ponto principal de desenvolvimento dessa biblioteca, ou seja, ao utilizar você sabe de antemão como a sua informação está em softwares/aplicações que se ligam a sua e como ela voltará para o seu domínio quando precisar.
+
 </div>
 
 <div width="65">

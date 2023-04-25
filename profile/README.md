@@ -46,24 +46,24 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 <br>
 <div>
 
-<container style="flex: 1 1 0%; flex-direction: column;">
+<container style="flex: 1 1 0%; flex-direction: column;" align="center">
 <img src="https://github.com/CodePlayData/tesa/blob/deno/assets/tesa_avatar_white.png" alt="drawing" width="75" style="border-radius: 50%" />
-<h2>Tesa</h2>
+<h3>Tesa</h3>
 </container>
 
 <container style="">
 <img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="75" style="border-radius: 50%"/>
-<h2>Adapters</h2>
+<h3>Adapters</h3>
 </container>
 
 <container style="">
 <img src="https://github.com/CodePlayData/authenticator/blob/main/assets/authenticator-dark-logo.png" alt="drawing" width="75" style="border-radius: 50%"/>
-<h2>Authenticator</h2>
+<h3>Authenticator</h3>
 </container>
 
 <container style="">
 <img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_white.png" alt="drawing" width="75" style="border-radius: 50%"/>
-<h2>Fhir HL7</h2>
+<h3>Fhir HL7</h3>
 </container>
 
 </div>

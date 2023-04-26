@@ -130,7 +130,6 @@ Os dados em saúde são um dos maiores desafios da atualidade. Eles precisam ser
 |------------------|---------------------------------|-------------------------|
 |  _libraries_     |              1/2                | Typescript e Dart       |
 ||
-|
 
 <br>
 

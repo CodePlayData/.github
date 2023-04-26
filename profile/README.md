@@ -137,6 +137,10 @@ Os dados em saúde são um dos maiores desafios da atualidade. Eles precisam ser
 
 ## Integrantes
 
+O projeto CodePlayData apesar de já planejado por muito tempo ainda está em seus estágios iniciais de implementação. 
+
+**Ainda não possuímos estrutura para remuneração de contribuidores mas esperamos em breve tê-la.** Portanto, caso queira contribuir estamos abertos a voluntários. Obviamente essas pessoas terão prioridades em decisões de planejamentos financeiros futuros.
+
 <br>
 <img src="https://avatars.githubusercontent.com/u/52466957?v=4" alt="drawing" width="75" style="border-radius: 50%"/>
 

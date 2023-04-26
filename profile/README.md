@@ -29,7 +29,7 @@ Acreditamos que a revolução tecnológica que estamos vivendo com o advento das
  
 ## Visão
 
-Esperamos poder evoluir ao passo que os dados assumem um papel central na sociedade. Gostaríamos que os nossos usuários pudessem utilizá-los como ferramentas e forma facilitada e intuitiva, em um mundo em que o desenvolvimento de IAs e Machine Learning é inevitável. Temos como lema atual:
+Esperamos poder evoluir ao passo que os dados assumem um papel central na sociedade. Gostaríamos que os nossos usuários pudessem utilizá-los como ferramentas de forma facilitada e intuitiva, nesse cenário atual em que o desenvolvimento de IAs e Machine Learning é inevitável. Temos como lema atual:
 
 **"Data e UX sem atrito ;)"**
 
@@ -55,9 +55,18 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 
 <br>
 
-Esse projeto busca reduzir a complexidade de processos nos três pilares das análises espaciais: Geocodificação e Busca (back-end); Geolocalização e Mapas (front-end); Geoprocessamento e Modelos (data-science). Destinado a: desenvolvedores que  precisam criar aplicações que lidam com dados espaciais; profissionais que buscam análise de planilhas de clientes (ou pacientes) de forma visual em mapas interativos; e empresas que aplicar marketing geográfico. Todos esses profissionais podendo ser brasileiros ou não. O primeiro país de implementação é o Brasil com posterior expansão para outros países.
+Esse projeto busca reduzir a complexidade de processos nos três pilares das análises espaciais: Geocodificação e Busca (back-end); Geolocalização e Mapas (front-end); Geoprocessamento e Modelos (data-science). Destinado a: desenvolvedores que  precisam criar aplicações que lidam com dados espaciais; profissionais que buscam análise de planilhas de clientes (ou pacientes) de forma visual em mapas interativos; e empresas que aplicar marketing geográfico. Todos esses profissionais podendo ser brasileiros ou não. O primeiro país de implementação é o Brasil com posterior expansão para outros países. 
 
 </div>
+
+|   Apresentações   |  Quantidade (Ativo/Programado)  |          Targets        | 
+|-------------------|---------------------------------|-------------------------|
+|   _libraries_     |              1/3                |  Typescript, Dart e R   |
+| _ui components_   |              0/3                |  Vue, React e Flutter   |
+|  API*             |              0/1                |  -                      |
+|  _web service_*   |              0/1                |  -                      |
+||
+| *Produtos pagos |
 
 <br>
 
@@ -68,9 +77,15 @@ Esse projeto busca reduzir a complexidade de processos nos três pilares das an�
 
 <br>
 
-Informações/dados fluem das aplicações/softwares principais dos modelos de trabalhos dos usuários para àqueles em que não são parte da sua regra de negócio. De modo a simplificar o desenvolvimento desses softwares e manter a simplicidade, esse produto é uma biblioteca (e não mais dos que isso) pública para que os desenvolvedores se preocupem apenas com a regra de negócio. Todo o código que é necessário para essa tarefa virá de "adaptadores" (bem ao conceito de arquitetura hexagonal) e a única tarefa para uso dessa bibliotexa será a confecção da melhor "porta" para o seu caso de uso. A previsibilidade do dado é o ponto principal de desenvolvimento dessa biblioteca, ou seja, ao utilizar você sabe de antemão como a sua informação está em softwares/aplicações que se ligam a sua e como ela voltará para o seu domínio quando precisar.
+Informações/dados fluem das aplicações/softwares principais dos modelos de trabalhos dos usuários para àqueles em que não são parte da sua regra de negócio. De modo a simplificar o desenvolvimento desses softwares e manter a simplicidade, esse produto permite que os desenvolvedores se preocupem apenas com a regra de negócio. Todo o código que é necessário para essa tarefa virá de "adaptadores" (bem ao conceito de arquitetura hexagonal) e a única tarefa para uso dessa bibliotexa será a confecção da melhor "porta" para o seu caso de uso. A previsibilidade do dado é o ponto principal de desenvolvimento dessa biblioteca, ou seja, ao utilizar você sabe de antemão como a sua informação está em softwares/aplicações que se ligam a sua e como ela voltará para o seu domínio quando precisar.
 
 </div>
+
+| Apresentações   |  Quantidade (Ativo/Programado)  |       Targets       |
+|-----------------|---------------------------------|---------------------|
+|  _libraries_    |              2/3                |  Typescript e Dart  |
+
+<br>
 
 <div width="65" align="center">
 <img src="https://github.com/CodePlayData/authenticator/blob/main/assets/authenticator-dark-logo.png" alt="drawing" width="65" style="border-radius: 50%"/>
@@ -83,6 +98,15 @@ Autenticação e autorização, quando não terceirizadas, podem ser um gargalo 
 
 </div>
 
+|  Apresentações   |  Quantidade (Ativo/Programado)  |         Targets         |
+|------------------|---------------------------------|-------------------------|
+|  _libraries_     |              1/2                | Typescript e Dart       |
+| _ui components_  |              0/3                |  Vue, React e Flutter   |
+|  API             |              0/1                |  -                      |
+|  _web service_   |              0/1                |  -                      |
+||
+| *Produtos pagos |
+
 <div width="65" align="center">
 <img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_white.png" alt="drawing" width="65" style="border-radius: 50%"/>
 
@@ -90,7 +114,7 @@ Autenticação e autorização, quando não terceirizadas, podem ser um gargalo 
 
 <br>
 
-TODO
+Essa 
 
 </div>
 

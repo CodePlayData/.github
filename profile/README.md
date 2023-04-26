@@ -59,14 +59,15 @@ Esse projeto busca reduzir a complexidade de processos nos três pilares das an�
 
 </div>
 
-|   Apresentações   |  Quantidade (Ativo/Programado)  |          Targets        | 
-|-------------------|---------------------------------|-------------------------|
-|   _libraries_     |              1/3                |  Typescript, Dart e R   |
-| _ui components_   |              0/3                |  Vue, React e Flutter   |
+|   Apresentações    |  Quantidade (Ativo/Programado)  |          Targets        | 
+|--------------------|---------------------------------|-------------------------|
+|   _libraries_      |              1/3                |  Typescript, Dart e R   |
+| _ui components_    |              0/3                |  Vue, React e Flutter   |
+| _pack_            |              0/2                |  Docker e WebAssembly   |
 |  API*             |              0/1                |  -                      |
-|  _web service_*   |              0/1                |  -                      |
+|  _web service*_   |              0/1                |  -                      |
 ||
-| *Produtos pagos |
+| *Essas aprensentações podem apresentar custos financeiros. |
 
 <br>
 
@@ -84,6 +85,9 @@ Informações/dados fluem das aplicações/softwares principais dos modelos de t
 | Apresentações   |  Quantidade (Ativo/Programado)  |       Targets       |
 |-----------------|---------------------------------|---------------------|
 |  _libraries_    |              2/3                |  Typescript e Dart  |
+| _pack*_??       |              0/1                |  Docker??           |
+||
+| *Essas aprensentações podem apresentar custos financeiros. |
 
 <br>
 
@@ -94,18 +98,22 @@ Informações/dados fluem das aplicações/softwares principais dos modelos de t
 
 <br>
 
-Autenticação e autorização, quando não terceirizadas, podem ser um gargalo no desenvolvimento de qualquer software. Quando se trata ao controle e acesso de informações de seu modelo de negócio esse cenário se torna ainda pior sem conhecimento técnico sobre o assunto. Esse produto busca ser uma solução completa para desenvolvedores de modo que possam se valer da biblioteca para uso em suas aplicações e solução para aqueles que precisam de controle refinado ao compartilhar dados, informações e links de acesso.
+Autenticação e autorização podem ser um gargalo no desenvolvimento de qualquer software. Quando se trata ao controle e acesso de informações de seu modelo de negócio esse cenário se torna ainda pior sem conhecimento técnico sobre o assunto. Esse produto busca ser uma solução completa para desenvolvedores de modo que possam se valer da biblioteca para uso em suas aplicações e solução para aqueles que precisam de controle refinado ao compartilhar dados, informações e links de acesso.
 
 </div>
 
-|  Apresentações   |  Quantidade (Ativo/Programado)  |         Targets         |
-|------------------|---------------------------------|-------------------------|
-|  _libraries_     |              1/2                | Typescript e Dart       |
-| _ui components_  |              0/3                |  Vue, React e Flutter   |
-|  API             |              0/1                |  -                      |
-|  _web service_   |              0/1                |  -                      |
+|   Apresentações    |  Quantidade (Ativo/Programado)  |         Targets         |
+|--------------------|---------------------------------|-------------------------|
+|  _libraries_       |              1/2                | Typescript e Dart       |
+| _ui components_    |              0/3                |  Vue, React e Flutter   |
+| _pack*_            |              0/2                |  Docker e WebAssembly   |
+|  API**             |              0/1                |  -                      |
+|  _web service**_   |              0/1                |  -                      |
 ||
-| *Produtos pagos |
+| *Essas aprensentações podem apresentar custos financeiros. |
+
+
+<br>
 
 <div width="65" align="center">
 <img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_white.png" alt="drawing" width="65" style="border-radius: 50%"/>
@@ -114,9 +122,14 @@ Autenticação e autorização, quando não terceirizadas, podem ser um gargalo 
 
 <br>
 
-Essa 
+Os dados em saúde são um dos maiores desafios da atualidade. Eles precisam ser compartilhados entre diferentes sistemas e aplicações, garantindo a qualidade e a segurança das informações. Isso é o que chamamos de interoperabilidade, e é essencial para o desenvolvimento da medicina e da saúde digital. Neste projeto, você vai ser capaz de trabalhar com o padrão de interoperabilidade de dados em saúde, o HL7 FHIR, implementando o primeiro usecase: Agendamento de consultas.
 
 </div>
+
+|  Apresentações   |  Quantidade (Ativo/Programado)  |         Targets         |
+|------------------|---------------------------------|-------------------------|
+|  _libraries_     |              1/2                | Typescript e Dart       |
+
 
 </div>
 

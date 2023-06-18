@@ -78,7 +78,7 @@ Esse projeto busca reduzir a complexidade de processos nos três pilares das an�
 
 <br>
 
-Informações/dados fluem das aplicações/softwares principais dos modelos de trabalhos dos usuários para àqueles em que não são parte da sua regra de negócio. De modo a simplificar o desenvolvimento desses softwares e manter a simplicidade, esse produto permite que os desenvolvedores se preocupem apenas com a regra de negócio. Todo o código que é necessário para essa tarefa virá de "adaptadores" (bem ao conceito de arquitetura hexagonal) e a única tarefa para uso dessa bibliotexa será a confecção da melhor "porta" para o seu caso de uso. A previsibilidade do dado é o ponto principal de desenvolvimento dessa biblioteca, ou seja, ao utilizar você sabe de antemão como a sua informação está em softwares/aplicações que se ligam a sua e como ela voltará para o seu domínio quando precisar.
+Informações/dados fluem das aplicações/softwares principais dos modelos de trabalhos dos usuários para àqueles em que não são parte da sua regra de negócio. De modo a simplificar o desenvolvimento desses softwares e manter a simplicidade, esse produto permite que os desenvolvedores se preocupem apenas com a regra de negócio. Todo o código que é necessário para essa tarefa virá de "adaptadores" (bem ao conceito de arquitetura hexagonal) e a única tarefa para uso dessa biblioteca será a confecção da melhor "porta" para o seu caso de uso. A previsibilidade do dado é o ponto principal de desenvolvimento dessa biblioteca, ou seja, ao utilizar você sabe de antemão como a sua informação está em softwares/aplicações que se ligam a sua e como ela voltará para o seu contexto quando precisar.
 
 </div>
 

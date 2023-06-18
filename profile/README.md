@@ -15,15 +15,15 @@ _Data e DX sem atrito._
 ## Missão
 
 A CodePlayData é um projeto criado com a missão de simplificar os processos de gerência, tratamento e consumo de dados em aplicações e softwares de alguns setores específicos da sociedade, como o setor de saúde.
-Acreditamos que a revolução tecnológica que estamos vivendo com o advento das IAs irá gerar uma abordagem centrada à dados como _commodities_. E os modelos atuais oneram em excesso a produção, armazenamento, manipulação e análise dos dados gerados por diversos modelos de trabalho, por exemplo:
+Acreditamos que a revolução tecnológica que estamos vivendo com o advento das IAs irá gerar uma abordagem centrada à dados como _commodities_. E os modelos atuais oneram em excesso a produção, armazenamento, manipulação e análise dos dados gerados, por exemplo:
 
-1. Um profissional paga para utilizar um software de seu modelo de trabalho, ou por licenças ou por _SaaS_.
-2. Paga para persistir a médio/longo prazo esse dado, diretamente ou indiretamente com Hardwares ou _clouds_.
-3. Paga para transmissão dos dados em rede.
-4. Paga para obter decisões negócios dos dados produzidos por si próprio, por serviços de profissionais especialistas ou _softwares_ de ETL.
-5. Paga para disponibilizar analises, documentos, acessos e afins, derivados dos dados prouzidos.
+1. Um profissional para se mater competitivo busca utilizar um software que se aplique a sua rotina de trabalho pagando o se uso ou por licenças, ou por _SaaS_ (_Pay as U Go_);
+2. Para persistir a médio/longo prazo esse dado, paga diretamente com a compra de Hardwares adequados ou indiretamente ṕor meio das _clouds_ que fornecem um _IaaS_ (_Infra as a Service).
+3. Paga para "movimentar" esses dados na rede na forma de cobranças de _Ingress_ e _Egress_.
+4. Paga para obter decisões negócios dos dados produzidos por si próprio via serviços de profissionais especialistas ou _softwares_ de ETL.
+5. Paga para disponibilizar (CDNs - Content Delivery Networks) analises, documentos, acessos e afins, derivados dos dados prouzidos.
 
-**Faz parte da nossa missão reduzir esse custo por etapas ao máximo e se possível a 0, de modo que acabe com a redundância de cobrança.** Pra isso seremos fornecedores de código aos que precisam desenvolver, serviços àqueles que precisam melhor gerenciar a relação com dados em seus modelos de trabalho e, quem sabe, disseminando conteúdo para concientizar as pessoas com a nossa missão e visão.
+**Faz parte da nossa missão reduzir esse custo por etapas ao máximo (e quando possível a 0), de modo que acabe com a redundância de cobrança.** Pra isso seremos fornecedores de código aos que precisam desenvolver, serviços àqueles que precisam melhor gerenciar a relação com dados em seus modelos de trabalho e, quem sabe, disseminando conteúdo para concientizar as pessoas com a nossa missão e visão.
 
 <br>
  

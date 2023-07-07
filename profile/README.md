@@ -31,7 +31,11 @@ Acreditamos que a revolução tecnológica que estamos vivendo com o advento das
 
 Esperamos poder evoluir ao passo que os dados assumem um papel central na sociedade. Gostaríamos que os nossos usuários pudessem utilizá-los como ferramentas de forma facilitada e intuitiva, nesse cenário atual em que o desenvolvimento de IAs e Machine Learning é inevitável. Temos como lema atual:
 
-**"Data e UX sem atrito ;)"**
+<div align="center"> 
+
+#### "Data e UX sem atrito ;)"
+
+</div>
 
 <br>
 

@@ -23,7 +23,7 @@ Acreditamos que a revolução tecnológica que estamos vivendo com o advento das
 4. Paga para obter decisões negócios dos dados produzidos por si próprio via serviços de profissionais especialistas ou _softwares_ de ETL.
 5. Paga para disponibilizar (CDNs - Content Delivery Networks) analises, documentos, acessos e afins, derivados dos dados prouzidos.
 
-**Faz parte da nossa missão reduzir esse custo por etapas ao máximo (e quando possível a 0), de modo que acabe com a redundância de cobrança.** Pra isso seremos fornecedores de código aos que precisam desenvolver, serviços àqueles que precisam melhor gerenciar a relação com dados em seus modelos de trabalho e, quem sabe, disseminando conteúdo para concientizar as pessoas com a nossa missão e visão.
+**Faz parte da nossa missão reduzir esse custo por etapas ao máximo (e quando possível a 0), de modo que acabe com a redundância de cobrança.** Pra isso seremos fornecedores de código aos que precisam desenvolver, serviços àqueles que precisam melhor gerenciar a relação com dados em seus modelos de trabalho e, quem sabe, disseminando conteúdo para conscientizar as pessoas com a nossa missão e visão.
 
 <br>
  

@@ -74,7 +74,8 @@ Esse projeto busca reduzir a complexidade de processos nos trÃªs pilares das anÃ
 <div width="75" align="center">
 <img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="85" style="border-radius: 50%"/>
 
-### [Adapters](https://github.com/CodePlayData/adapters)
+### Adapters
+[Dart](https://github.com/CodePlayData/adapters_dart) | [Typescript](https://github.com/CodePlayData/adapters)
 
 <br>
 

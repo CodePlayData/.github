@@ -51,7 +51,7 @@ Prezamos pela simplicidade dos processos, satisfação do usuário e clareza nas
 <div width="75" align="center">
 <img src="https://github.com/CodePlayData/tesa/blob/main/assets/tesa_avatar_white.png" alt="drawing" width="85" style="border-radius: 50%" />
 
-### Tools for easy spatial analysis (Tesa) 
+### [Tools for easy spatial analysis (Tesa)](https://github.com/CodePlayData/tesa)
 
 <br>
 
@@ -74,7 +74,7 @@ Esse projeto busca reduzir a complexidade de processos nos três pilares das an�
 <div width="75" align="center">
 <img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="85" style="border-radius: 50%"/>
 
-### Adapters
+### [Adapters](https://github.com/CodePlayData/adapters)
 
 <br>
 
@@ -94,7 +94,7 @@ Informações/dados fluem das aplicações/softwares principais dos modelos de t
 <div width="80" align="center">
 <img src="https://github.com/CodePlayData/authenticator/blob/main/assets/authenticator-dark-logo.png" alt="drawing" width="65" style="border-radius: 50%"/>
 
-### Authenticator
+### [Authenticator](https://github.com/CodePlayData/adapters)
 
 <br>
 
@@ -118,7 +118,7 @@ Autenticação e autorização podem ser um gargalo no desenvolvimento de qualqu
 <div width="95" align="center">
 <img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_white.png" alt="drawing" width="65" style="border-radius: 50%"/>
 
-### Fhir HL7
+### [Fhir HL7](https://github.com/CodePlayData/fhir)
 
 <br>
 

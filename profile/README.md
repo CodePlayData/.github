@@ -90,7 +90,7 @@ Informações/dados fluem das aplicações/softwares principais dos modelos de t
 <br>
 
 <div width="80" align="center">
-<img src="https://github.com/CodePlayData/authenticator/blob/main/assets/authenticator-dark-logo.png" alt="drawing" width="85" style="border-radius: 50%"/>
+<img src="https://github.com/CodePlayData/authenticator/blob/main/assets/authenticator-dark-logo.png" alt="drawing" width="90" style="border-radius: 50%"/>
 
 ### [Authenticator](https://github.com/CodePlayData/adapters)
 
@@ -114,7 +114,7 @@ Autenticação e autorização podem ser um gargalo no desenvolvimento de qualqu
 <br>
 
 <div width="95" align="center">
-<img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_white.png" alt="drawing" width="85" style="border-radius: 50%"/>
+<img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_white.png" alt="drawing" width="90" style="border-radius: 50%"/>
 
 ### [Fhir HL7](https://github.com/CodePlayData/fhir)
 

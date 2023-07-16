@@ -69,7 +69,7 @@ Esse projeto busca reduzir a complexidade de processos nos três pilares das an�
 <br>
 
 <div width="75" align="center">
-<img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="85" style="border-radius: 50%"/>
+<img src="https://github.com/CodePlayData/adapters/blob/main/assets/adapters-dark-logo.png" alt="drawing" width="95" style="border-radius: 50%"/>
 
 ### Adapters
 [Dart](https://github.com/CodePlayData/adapters_dart) | [Typescript](https://github.com/CodePlayData/adapters)
@@ -90,7 +90,7 @@ Informações/dados fluem das aplicações/softwares principais dos modelos de t
 <br>
 
 <div width="80" align="center">
-<img src="https://github.com/CodePlayData/authenticator/blob/main/assets/authenticator-dark-logo.png" alt="drawing" width="65" style="border-radius: 50%"/>
+<img src="https://github.com/CodePlayData/authenticator/blob/main/assets/authenticator-dark-logo.png" alt="drawing" width="85" style="border-radius: 50%"/>
 
 ### [Authenticator](https://github.com/CodePlayData/adapters)
 
@@ -114,7 +114,7 @@ Autenticação e autorização podem ser um gargalo no desenvolvimento de qualqu
 <br>
 
 <div width="95" align="center">
-<img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_white.png" alt="drawing" width="65" style="border-radius: 50%"/>
+<img src="https://github.com/CodePlayData/fhir/blob/main/assets/fire_avatar_white.png" alt="drawing" width="85" style="border-radius: 50%"/>
 
 ### [Fhir HL7](https://github.com/CodePlayData/fhir)
 

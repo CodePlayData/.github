@@ -143,8 +143,4 @@ Os dados em saúde são um dos maiores desafios da atualidade. Eles precisam ser
 <img src="https://avatars.githubusercontent.com/u/52466957?v=4" alt="drawing" width="75" style="border-radius: 50%"/>
 
 
-[Pedro Paulo dos Santos (dr2p/dr2pedro)](https://github.com/dr2pedro) - Idealizador do projeto [CodePlayData](https://github.com/CodePlayData). Meste em Ciências pela Fundação Oswaldo Cruz - Epidemiologia na Saúde Pública. Cientista e Analista de dados para fins comerciais e acadêmicos, com conhecimentos avançados em R e Javascript/Typescript, intermediário em Python e Dart. Conhecendo o Scala ;). Desenvolvedor Full-Stack MEVN (Mongo, Express, Vue e Node), Deno, Flutter, Tailwind e mais alguns outros setups atuais.
-
-
-
-
+[Pedro Paulo dos Santos (dr2p/dr2pedro)](https://github.com/dr2pedro) - Idealizador do projeto [CodePlayData](https://github.com/CodePlayData). Mestre em Ciências pela Fundação Oswaldo Cruz - Epidemiologia na Saúde Pública. Conhecimentos avançados em R, Javascript/Typescript e básico em Python, Dart, Scala, Kotlin.

@@ -4,7 +4,7 @@
 
 ### Bem vind(o/a/e)
 
-TODO
+![](../assets/logo_rebrand.png)
 
 ## Integrantes
 
